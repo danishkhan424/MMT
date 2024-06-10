@@ -1,0 +1,5 @@
+GET requested at /about page on Sat Jun 08 2024 15:20:14 GMT+0530 (India Standard Time) 
+GET requested at / page on Sat Jun 08 2024 15:20:41 GMT+0530 (India Standard Time) 
+GET requested at /contact page on Sat Jun 08 2024 15:20:58 GMT+0530 (India Standard Time) 
+GET requested at /login page on Sat Jun 08 2024 15:21:08 GMT+0530 (India Standard Time) 
+POST requested at /signup page on Sat Jun 08 2024 15:21:31 GMT+0530 (India Standard Time) 

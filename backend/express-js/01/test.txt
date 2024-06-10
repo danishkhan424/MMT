@@ -1,0 +1,4 @@
+Hello this is test file
+{"name":"Iron man","age":30,"powerLevel":60},
+{"name":"Batman","age":35,"powerLevel":70},
+{"name":"Super man","age":33,"powerLevel":78},
